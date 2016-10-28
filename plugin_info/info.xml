@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>Eventghost</id>
+    <name>Eventghost</name>
+    <description>Eventghost</description>
+    <icon>icon animal-animal</icon>
+    <licence>AGPL</licence>
+    <author>ouquoi</author>
+    <installation>Eventghost</installation>
+    <require>2.3.18</require>
+    <category>communication</category>
+</info>
+
